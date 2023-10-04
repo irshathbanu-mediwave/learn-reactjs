@@ -1,6 +1,6 @@
 import Arithmetic from "./Test";
 
 function App(){
-  return <div><Arithmetic/></div>
+  return <Arithmetic/>
 }
 export default App
